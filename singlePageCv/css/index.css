@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.address {
+    line-height: 10px;
+}
+
+.skills {
+    line-height: 10px;
+}
+
+.education {
+    line-height: 10px;
+}
+
+.techstack {
+    line-height: 10px;
+}
+
+
+hr {
+    height: 3px;
+    background-color: black;
+    border: none;
+}
+
+.container-cv {
+    background-color: rgba(230, 234, 238, 0.889);
+    padding: 60px;
+    border: 1px solid black;
+}
+
+h4 {
+    color: rgb(6, 157, 33);
+    font-weight: 500;
+}
+
+h3 {
+    color: rgb(34, 34, 34);
+}
